@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_header_headers",
+  "info": {
+    "displayName": "header",
+    "icon": "expand"
+  },
+  "options": {},
+  "attributes": {
+    "brand": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "dek": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_product_products",
+  "info": {
+    "displayName": "product",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "media": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.media-alt"
+    },
+    "productInfo": {
+      "displayName": "productInfo",
+      "type": "component",
+      "repeatable": false,
+      "component": "product.product-info"
+    }
+  }
+}

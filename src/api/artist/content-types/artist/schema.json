@@ -4,7 +4,8 @@
   "info": {
     "singularName": "artist",
     "pluralName": "artists",
-    "displayName": "artist"
+    "displayName": "artist",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -20,6 +21,9 @@
     },
     "email": {
       "type": "email"
+    },
+    "imageUrl": {
+      "type": "string"
     }
   }
 }

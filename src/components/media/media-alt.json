@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_media_media_alts",
+  "info": {
+    "displayName": "mediaAlt",
+    "icon": "fileError",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "mediaURL": {
+      "type": "string"
+    },
+    "altText": {
+      "type": "string"
+    },
+    "mediaType": {
+      "type": "enumeration",
+      "enum": [
+        "video",
+        "image"
+      ]
+    }
+  }
+}

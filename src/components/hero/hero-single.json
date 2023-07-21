@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_hero_hero_singles",
+  "info": {
+    "displayName": "heroSingle"
+  },
+  "options": {},
+  "attributes": {
+    "mediaAlt": {
+      "displayName": "mediaAlt",
+      "type": "component",
+      "repeatable": true,
+      "component": "media.media-alt"
+    }
+  }
+}

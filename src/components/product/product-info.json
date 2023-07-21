@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_product_product_infos",
+  "info": {
+    "displayName": "productInfo",
+    "icon": "discuss"
+  },
+  "options": {},
+  "attributes": {
+    "productName": {
+      "type": "string"
+    },
+    "productDescription": {
+      "type": "text"
+    },
+    "productPrice": {
+      "type": "decimal"
+    },
+    "productUrl": {
+      "type": "string"
+    },
+    "cta": {
+      "type": "string"
+    }
+  }
+}
