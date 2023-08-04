@@ -34,11 +34,11 @@ export default {
       type: "string",
       intlLabel: {
         id: "cn-image-preview.image-preview.label",
-        defaultMessage: "Text AI",
+        defaultMessage: "CN URL Image Preview",
       },
       intlDescription: {
         id: "cn-image-preview.image-preview.description",
-        defaultMessage: "Let AI do your writing!",
+        defaultMessage: "Add URL here",
       },
       icon: PluginIcon,
       components: {

@@ -24,6 +24,10 @@
     },
     "imageUrl": {
       "type": "string"
+    },
+    "helloFriend": {
+      "type": "customField",
+      "customField": "plugin::cn-image-preview.image-preview"
     }
   }
 }
