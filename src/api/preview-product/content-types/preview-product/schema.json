@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "preview_products",
+  "info": {
+    "singularName": "preview-product",
+    "pluralName": "preview-products",
+    "displayName": "Preview Product"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "product_name": {
+      "type": "string"
+    },
+    "product_description": {
+      "type": "richtext"
+    },
+    "product_image": {
+      "type": "customField",
+      "customField": "plugin::cn-image-preview.image-preview"
+    },
+    "product_link": {
+      "type": "string"
+    }
+  }
+}
