@@ -17,7 +17,7 @@ module.exports = {
         {
           uid: "api::preview-product.preview-product",
           published: {
-            url: "https://interactive.glamour.com/preview-mode-example/preview/index.html",
+            url: "https://copilot-app.condenast.io/glm/preview/article/6414a63cb80f2edfbccc8e51",
           },
         },
       ],
