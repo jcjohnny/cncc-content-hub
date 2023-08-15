@@ -21,6 +21,7 @@ module.exports = [
             "blob:",
             "market-assets.strapi.io",
             "assets.vogue.com",
+            "media.glamour.com",
           ],
           upgradeInsecureRequests: null,
         },
