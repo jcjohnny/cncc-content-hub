@@ -80,7 +80,7 @@ const Index = ({ name, value, attribute, onChange }) => {
           labelAction={
             <Tooltip description="Copy/paste the View Original url here.">
               <button
-                aria-label="Copy/paste the View Original url here."
+                aria-label="Copy/paste the View Original url here"
                 style={{
                   border: "none",
                   padding: 0,
