@@ -11,7 +11,6 @@ import {
   Box,
   TextInput,
   Stack,
-  Flex,
   Card,
   CardHeader,
   CardAsset,
@@ -100,32 +99,6 @@ const Index = ({ name, value, attribute, onChange }) => {
       >
         <Button endIcon={<ExternalLink />}>Upload Photo</Button>
       </a>
-      {/* <Field name="copilot-url" hint="Copy/paste the View Original url here.">
-        <Flex direction="column" alignItems="flex-start" gap={1}>
-          <FieldLabel>
-            <span>Copilot Photo Link </span>
-            <Tooltip description="Copy/paste the View Original url here.">
-              <button
-                aria-label="Information about entering the Copilot url"
-                style={{
-                  border: "none",
-                  paddingLeft: 3,
-                  background: "transparent",
-                }}
-              >
-                <Information aria-hidden />
-              </button>
-            </Tooltip>
-          </FieldLabel>
-          <FieldInput
-            name={name}
-            type="text"
-            placeholder=""
-            value={value || ""}
-            onChange={handleOnChange}
-          />
-        </Flex>
-      </Field> */}
     </Stack>
   );
 };

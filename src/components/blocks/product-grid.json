@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_product_grids",
+  "info": {
+    "displayName": "Product Grid",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "preview_products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::preview-product.preview-product"
+    }
+  }
+}

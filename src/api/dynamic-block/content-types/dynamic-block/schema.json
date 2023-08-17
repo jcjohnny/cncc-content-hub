@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "dynamic_blocks",
+  "info": {
+    "singularName": "dynamic-block",
+    "pluralName": "dynamic-blocks",
+    "displayName": "Dynamic Block",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "block_editor": {
+      "type": "dynamiczone",
+      "components": [
+        "blocks.hero-image",
+        "blocks.copy",
+        "blocks.product-grid"
+      ]
+    }
+  }
+}
