@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_copies",
+  "info": {
+    "displayName": "Copy",
+    "icon": "write"
+  },
+  "options": {},
+  "attributes": {
+    "copy": {
+      "type": "richtext"
+    }
+  }
+}
