@@ -20,7 +20,9 @@
       "components": [
         "blocks.hero-image",
         "blocks.copy",
-        "blocks.product-grid"
+        "blocks.product-grid",
+        "blocks.quote",
+        "blocks.swiper"
       ]
     }
   }

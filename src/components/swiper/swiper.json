@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_swiper_swipers",
+  "info": {
+    "displayName": "Swiper",
+    "icon": "exit"
+  },
+  "options": {},
+  "attributes": {
+    "preview_products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::preview-product.preview-product"
+    }
+  }
+}
