@@ -10,11 +10,14 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.12.5",
-    "@strapi/plugin-users-permissions": "4.12.5",
-    "@strapi/strapi": "4.12.5",
+    "@strapi/plugin-i18n": "4.15.0",
+    "@strapi/plugin-users-permissions": "4.15.0",
+    "@strapi/strapi": "4.15.0",
     "better-sqlite3": "8.5.1",
+    "n": "^9.2.0",
     "pg": "^8.11.3",
+    "stable": "^0.1.8",
+    "strapi-plugin-import-export-entries": "^1.21.1",
     "strapi-plugin-populate-deep": "^3.0.0",
     "strapi-plugin-preview-button": "^1.1.3"
   },
